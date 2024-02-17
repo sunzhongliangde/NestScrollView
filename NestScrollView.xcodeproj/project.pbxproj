@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		18B7E8F82A61188500703F9B /* MainScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B7E8F72A61188500703F9B /* MainScrollView.swift */; };
 		18CEBD792A5E436200B20537 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18CEBD782A5E436200B20537 /* AppDelegate.swift */; };
 		18CEBD7D2A5E436200B20537 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18CEBD7C2A5E436200B20537 /* HomeViewController.swift */; };
 		18CEBD822A5E436500B20537 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18CEBD812A5E436500B20537 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		18B7E8F72A61188500703F9B /* MainScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainScrollView.swift; sourceTree = "<group>"; };
 		18CEBD752A5E436200B20537 /* NestScrollView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NestScrollView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18CEBD782A5E436200B20537 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18CEBD7C2A5E436200B20537 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				18CEBD832A5E436500B20537 /* LaunchScreen.storyboard */,
 				18CEBD862A5E436600B20537 /* Info.plist */,
 				18CEBD8C2A5E493E00B20537 /* BaseNavigationViewController.swift */,
+				18B7E8F72A61188500703F9B /* MainScrollView.swift */,
 			);
 			path = NestScrollView;
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 			files = (
 				18CEBD8D2A5E493E00B20537 /* BaseNavigationViewController.swift in Sources */,
 				18CEBD7D2A5E436200B20537 /* HomeViewController.swift in Sources */,
+				18B7E8F82A61188500703F9B /* MainScrollView.swift in Sources */,
 				18CEBD792A5E436200B20537 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
